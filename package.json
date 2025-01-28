@@ -1,0 +1,22 @@
+{
+  "name": "blue-candle",
+  "displayName": "blue-candle",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {},
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Candle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue Candle-color-theme.json"
+      }
+    ]
+  }
+}
