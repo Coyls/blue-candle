@@ -3,7 +3,10 @@
   "displayName": "blue-candle",
   "description": "",
   "version": "0.0.1",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Coyls/blue-candle"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
